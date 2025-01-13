@@ -1,0 +1,8 @@
+# Ignore Python virtual environments
+.venv/
+.venv
+
+# Ignore environment variable files
+.env
+
+.cache
